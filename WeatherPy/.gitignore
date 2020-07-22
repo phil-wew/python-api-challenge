@@ -1,0 +1,10 @@
+#ignore mac files
+.DS_store
+
+#API
+/config
+
+/config.py
+
+
+
